@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "BearerTokenIssuer": "https://localhost:5000",
+    "BearerTokenAudience": "https://localhost:5000/resources"
+  }
+}
